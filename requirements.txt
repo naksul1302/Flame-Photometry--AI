@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-scipy
-openpyxl
-reportlab
-requests
-google-generativeai
